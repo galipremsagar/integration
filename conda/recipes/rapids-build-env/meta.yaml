@@ -130,6 +130,7 @@ requirements:
     - ucx-proc=*=gpu
     - ucx
     - umap-learn
+    - packaging
 
 about:
   home: http://rapids.ai/
